@@ -1,0 +1,16 @@
+Project Need
+Randomly contacting customers is a very expensive and time consuming marketing process. Besides, randomly and repetitively calling customers can even hurt the reputation of the brand.So, in order to reduce the cost of marketing and targeting the potential customer, a machine learning model needs to be developed which will predict the potential customers for the company.
+
+In any business, targeting the right customer at the right time is very important. By collecting the social media data, company can not only find the potential customer base but also see how frequently a customer travels, what is the preferred locations of most of the customers, what is the nature of their travel and so on. Based on these records, many packages can be designed to suit the needs of the customers. Also, by knowing all these information, we can contact the right customer just at the right time.
+
+Steps Performed To build the model:
+
+1. Importing Data into Jupyter Notebook
+2. Checking shape, size and datatypes of the variables.
+3. Checked missing values and imputed missing values using appropriate stratergy.
+4. Performed Exploratory Data Analysis on both Continuous and Categorical variables.
+5. Performed feature engineering and encoding of variables.
+6. Built models like Random Forest, K-nearest neighbor, Naive-Bayes, and Logistic Regression.
+7. Selected the Best fit model and fine tuned the model performance.
+8. Provided business insights/recommendations
+
